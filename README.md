@@ -49,7 +49,7 @@ const Patricio = {
   
 <h1 align="center" >Featured projects</h1>
 <div align="center">
-<a href="https://e-commerce-pf.vercel.app/" rel="nofollow"><img src="./images/pf.png" alt="ProyectoG" width="400px"></a>
-<a href="https://videogames-app-sigma.vercel.app/" rel="nofollow"><img src="./images/pi.png" alt="ProyectoI" width="400px"></a>
+<a href="https://e-commerce-pf.vercel.app/" rel="nofollow"><img src="https://user-images.githubusercontent.com/96635422/177418972-cfaf5746-3c3c-4b13-80b6-df43a58a27ca.png" alt="ProyectoG" width="400px"></a>
+<a href="https://videogames-app-sigma.vercel.app/" rel="nofollow"><img src="https://user-images.githubusercontent.com/96635422/177419009-13f3b5b8-3415-4e26-a979-83c57ca64d64.png" alt="ProyectoI" width="400px"></a>
 
 
