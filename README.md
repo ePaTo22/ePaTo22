@@ -17,7 +17,7 @@ const Patricio = {
 ## You can find me :earth_americas: :
 - [Youtube](https://www.youtube.com/channel/UCvFCEW3JawOK_pUVt6SmL7Q)
 - [Linkedin](https://www.linkedin.com/in/patricio-turpin-263512196)
-- [Gmail](patricioturpin@gmail.com)
+- patricioturpin@gmail.com
 
 
 
