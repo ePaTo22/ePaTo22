@@ -11,7 +11,7 @@ const Patricio = {
 ```
 
 
-- 🔭 I am currently working on improving my skills as a developer.
+- 🔭 I am currently working as a Frontend Developer at Auravant.
 - 🌱 I am learning Typescript oriented to its integration with React and more technologies.
 - 💬 Ask me about JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize, TypeScript.
 ## You can find me :earth_americas: :
