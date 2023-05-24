@@ -4,9 +4,8 @@
   
 ```js
 const Patricio = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Express, Sequelize],
-  tools: [React, Redux, Node, Styled-Components, Jest, PostgreSQL, ChakraUI]
+  code: [Javascript, Typescript, HTML, CSS, Express, Sequelize, Prisma],
+  tools: [React, Redux, Node, Styled-Components, Jest, PostgreSQL, TailwindCSS, ChakraUI]
 }
 ```
 
