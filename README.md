@@ -2,7 +2,7 @@
 
 **Full-Stack Software Engineer focused on building reliable, user-centered SaaS products.**
 
-I'm a software engineer based in Argentina with 4+ years of professional experience building and maintaining production web applications.
+I'm a software engineer based in Argentina with 5+ years of professional experience building and maintaining production web applications.
 
 My strongest areas are **React, Next.js, and TypeScript**, complemented by backend experience with **Node.js, PostgreSQL, and Prisma**. I enjoy working across the product lifecycle: understanding the problem, designing the solution, implementing frontend and backend functionality, integrating external services, deploying, and supporting features in production.
 
